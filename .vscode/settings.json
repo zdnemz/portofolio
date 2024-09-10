@@ -1,0 +1,12 @@
+{
+  "workbench.editor.customLabels.patterns": {
+    "**/app/**/layout.tsx": "${dirname} - Layout",
+    "**/app/**/page.tsx": "${dirname} - Page",
+    "**/app/**/route.ts": "${dirname} - Route",
+    "**/components/**/*.tsx": "${filename} - Component",
+    "**/hooks/**/*.ts": "${filename} - Hook",
+    "**/models/**/*.ts": "${filename} - Model",
+    "**/utils/**/*.ts": "${filename} - Utility",
+    "**/configs/**/*.ts": "${filename} - Config"
+  }
+}
